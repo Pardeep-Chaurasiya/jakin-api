@@ -9,7 +9,7 @@ input.setAttribute("id","inputField");
 
 document.body.setAttribute("class"," mt-5 d-flex flex-column  align-items-center")
 input.setAttribute("type","text");
-input.setAttribute("placeholder","please enter value");
+input.setAttribute("placeholder","please enter  anime name ");
 div2.setAttribute("id","main-div");
 div2.setAttribute("class","d-flex flex-column mt-3 justify-content-center align-items-center");
 
